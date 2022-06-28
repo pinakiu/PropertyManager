@@ -1,4 +1,4 @@
-﻿using System;
+
 namespace PropertyManager.Models
 {
 	public class Property
@@ -12,4 +12,3 @@ namespace PropertyManager.Models
 		}
 	}
 }
-

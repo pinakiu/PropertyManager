@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Mvc;
 using PropertyManager.Models;
 
 namespace PropertyManager.Controllers;
-
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 namespace PropertyManager.Models
 {
 	public class Resident
@@ -15,4 +15,3 @@ namespace PropertyManager.Models
 		}
 	}
 }
-
