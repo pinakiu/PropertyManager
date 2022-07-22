@@ -9,4 +9,4 @@ Goals should include:
 - Backend secure server containing a database of said information
 
 The website should be accessible amongst all platforms and operating systems that allow it.  
-Expected finish date: July 25, 2022
+Expected finish date: July 29, 2022
